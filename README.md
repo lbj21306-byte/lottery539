@@ -27,7 +27,7 @@ Repository name：lottery539
 這個網址就可以直接貼到 LINE 了！
 
 LINE 使用方式
-武威堂539智能選號系統
+
 https://你的Username.github.io/lottery539
 
 點連結即可使用，完全免費 🎯
